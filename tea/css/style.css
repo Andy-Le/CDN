@@ -449,7 +449,7 @@ h6 {
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 25px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 35px;
@@ -457,7 +457,7 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   border: 2px solid #fff;
-  color: #fff;
+  color: #a8ea68;
 }
 
 #hero .btn-get-started:hover {
